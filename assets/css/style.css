@@ -1,9 +1,9 @@
 body {
-    background-color: lightblue;
+    
 }
 
 .card {
-    background-color: lightslategray;
+    background-color: rgb(173, 185, 197);
 }
 
 .extra-form-style {
@@ -18,3 +18,4 @@ body {
     letter-spacing: 1px;
 
 }
+

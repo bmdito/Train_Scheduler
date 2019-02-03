@@ -71,7 +71,7 @@ database.ref().on(
         var newRow = $("<tr>");
 
         newRow.attr("data-key");
-        // newRow.addClass("the-row");
+        newRow.addClass("the-row");
         newRow.append("<td>"+trainName+"</td>");
         newRow.append("<td>"+childSnapShot.val().destination+"</td>");
         newRow.append("<td class='text-center'>"+frequency+"</td>");
